@@ -6,7 +6,7 @@ namespace POS_Terminal
 {
     public class Cart
     {
-        //public static Dictionary<Product, int> shoppingCart = new Dictionary<Product, int>();
+        public static Dictionary<Product, int> quantityCart = new Dictionary<Product, int>();
         public static List<Product> shoppingCart = new List<Product>();
 
         /*public static void AddToCart(Product item, int itemCount)
@@ -25,6 +25,7 @@ namespace POS_Terminal
             {
                 shoppingCart.Add(item);
             }
+            quantityCart[item] += itemCount;
             return shoppingCart;
         }
         
