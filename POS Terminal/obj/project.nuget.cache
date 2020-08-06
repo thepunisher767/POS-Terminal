@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RNQ0ZOxRYSJy7VyajeVE8w6XHRtyuLDBsTVfevwwpt+hquGrU5iLNbD/dcU6bbbRUftEFXo4L0jdEbgJYAj09g==",
+  "dgSpecHash": "xJ51dGBK6F9y23F5BlrcgvO9QzzRm9tWhcV7nofDcx3eI6B3aFU98eDCH9OOXIxXJCoCWCQzvpz9tHRv8OTXOQ==",
   "success": true,
-  "projectFilePath": "C:\\devbuild4\\POS Terminal\\POS Terminal\\POS Terminal.csproj",
+  "projectFilePath": "C:\\devbuild\\POSTerminal\\POS Terminal\\POS Terminal.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

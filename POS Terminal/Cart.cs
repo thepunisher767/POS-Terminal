@@ -6,8 +6,8 @@ namespace POS_Terminal
 {
     public class Cart
     {
-        public static Dictionary<Product, int> quantityCart = new Dictionary<Product, int>();
-        public static List<Product> shoppingCart = new List<Product>();
+        public static Dictionary<Product, int> shoppingCart = new Dictionary<Product, int>();
+        //public static List<Product> shoppingCart = new List<Product>();
 
         /*public static void AddToCart(Product item, int itemCount)
         {
@@ -19,13 +19,13 @@ namespace POS_Terminal
         }
         */
 
-        public static List<Product> AddToCart(Product item, int itemCount)
+        public static Dictionary<Product, int> AddToCart(Product item, int quantity)
         {
-            for (int i = 1; i <= itemCount; i++)
+            if (shoppingCart.ContainsKey(item))
             {
-                shoppingCart.Add(item);
+                shoppingCart[item] += quantity;
             }
-            quantityCart[item] += itemCount;
+            shoppingCart[item] = quantity;
             return shoppingCart;
         }
         
@@ -36,12 +36,12 @@ namespace POS_Terminal
             return quantityCost;
         }
 
-        public static double GetCartSubTotal(List<Product> shoppingCart)
+        public static double GetCartSubTotal(Dictionary<Product, int> shoppingCart)
         {
             double subTotal = 0;
-            for (int i = 0; i < shoppingCart.Count; i++)
+            foreach (KeyValuePair<Product, int> item in shoppingCart)
             {
-                subTotal = subTotal + shoppingCart[i].Price;
+                subTotal = +item.Key.Price * item.Value;
             }
             return subTotal;
         }
@@ -60,15 +60,11 @@ namespace POS_Terminal
             double changeToReturn = moneyIn - grandTotal;
             return changeToReturn;
         }
-        /*public static string TotalItemCount(List<Product> foodMenu, Dictionary<Product, int> cart)
+        public static string TotalItemCount(Dictionary<Product, int> cart)
         {
-            f
-
-
-
-            return 0;
+            return "";
         }
-        */
+        
 
 
 

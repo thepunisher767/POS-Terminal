@@ -11,3 +11,16 @@ C:\devbuild4\POS Terminal\POS Terminal\obj\Debug\netcoreapp3.1\POS Terminal.cspr
 C:\devbuild4\POS Terminal\POS Terminal\obj\Debug\netcoreapp3.1\POS Terminal.dll
 C:\devbuild4\POS Terminal\POS Terminal\obj\Debug\netcoreapp3.1\POS Terminal.pdb
 C:\devbuild4\POS Terminal\POS Terminal\obj\Debug\netcoreapp3.1\POS Terminal.genruntimeconfig.cache
+C:\devbuild\POSTerminal\POS Terminal\bin\Debug\netcoreapp3.1\POS Terminal.exe
+C:\devbuild\POSTerminal\POS Terminal\bin\Debug\netcoreapp3.1\POS Terminal.deps.json
+C:\devbuild\POSTerminal\POS Terminal\bin\Debug\netcoreapp3.1\POS Terminal.runtimeconfig.json
+C:\devbuild\POSTerminal\POS Terminal\bin\Debug\netcoreapp3.1\POS Terminal.runtimeconfig.dev.json
+C:\devbuild\POSTerminal\POS Terminal\bin\Debug\netcoreapp3.1\POS Terminal.dll
+C:\devbuild\POSTerminal\POS Terminal\bin\Debug\netcoreapp3.1\POS Terminal.pdb
+C:\devbuild\POSTerminal\POS Terminal\obj\Debug\netcoreapp3.1\POS Terminal.csprojAssemblyReference.cache
+C:\devbuild\POSTerminal\POS Terminal\obj\Debug\netcoreapp3.1\POS Terminal.AssemblyInfoInputs.cache
+C:\devbuild\POSTerminal\POS Terminal\obj\Debug\netcoreapp3.1\POS Terminal.AssemblyInfo.cs
+C:\devbuild\POSTerminal\POS Terminal\obj\Debug\netcoreapp3.1\POS Terminal.csproj.CoreCompileInputs.cache
+C:\devbuild\POSTerminal\POS Terminal\obj\Debug\netcoreapp3.1\POS Terminal.dll
+C:\devbuild\POSTerminal\POS Terminal\obj\Debug\netcoreapp3.1\POS Terminal.pdb
+C:\devbuild\POSTerminal\POS Terminal\obj\Debug\netcoreapp3.1\POS Terminal.genruntimeconfig.cache

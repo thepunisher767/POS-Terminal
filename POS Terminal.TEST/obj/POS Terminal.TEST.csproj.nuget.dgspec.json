@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\devbuild4\\POS Terminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj": {}
+    "C:\\devbuild\\POSTerminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj": {}
   },
   "projects": {
-    "C:\\devbuild4\\POS Terminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj": {
+    "C:\\devbuild\\POSTerminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\devbuild4\\POS Terminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj",
+        "projectUniqueName": "C:\\devbuild\\POSTerminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj",
         "projectName": "POS Terminal.TEST",
-        "projectPath": "C:\\devbuild4\\POS Terminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj",
+        "projectPath": "C:\\devbuild\\POSTerminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj",
         "packagesPath": "C:\\Users\\zscholts\\.nuget\\packages\\",
-        "outputPath": "C:\\devbuild4\\POS Terminal\\POS Terminal.TEST\\obj\\",
+        "outputPath": "C:\\devbuild\\POSTerminal\\POS Terminal.TEST\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zscholts\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\devbuild4\\POS Terminal\\POS Terminal\\POS Terminal.csproj": {
-                "projectPath": "C:\\devbuild4\\POS Terminal\\POS Terminal\\POS Terminal.csproj"
+              "C:\\devbuild\\POSTerminal\\POS Terminal\\POS Terminal.csproj": {
+                "projectPath": "C:\\devbuild\\POSTerminal\\POS Terminal\\POS Terminal.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\devbuild4\\POS Terminal\\POS Terminal\\POS Terminal.csproj": {
+    "C:\\devbuild\\POSTerminal\\POS Terminal\\POS Terminal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\devbuild4\\POS Terminal\\POS Terminal\\POS Terminal.csproj",
+        "projectUniqueName": "C:\\devbuild\\POSTerminal\\POS Terminal\\POS Terminal.csproj",
         "projectName": "POS Terminal",
-        "projectPath": "C:\\devbuild4\\POS Terminal\\POS Terminal\\POS Terminal.csproj",
+        "projectPath": "C:\\devbuild\\POSTerminal\\POS Terminal\\POS Terminal.csproj",
         "packagesPath": "C:\\Users\\zscholts\\.nuget\\packages\\",
-        "outputPath": "C:\\devbuild4\\POS Terminal\\POS Terminal\\obj\\",
+        "outputPath": "C:\\devbuild\\POSTerminal\\POS Terminal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zscholts\\AppData\\Roaming\\NuGet\\NuGet.Config",
