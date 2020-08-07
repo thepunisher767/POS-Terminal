@@ -3526,11 +3526,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\devbuild\\POSTerminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj",
+      "projectUniqueName": "C:\\devbuild4\\POS Terminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj",
       "projectName": "POS Terminal.TEST",
-      "projectPath": "C:\\devbuild\\POSTerminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj",
+      "projectPath": "C:\\devbuild4\\POS Terminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj",
       "packagesPath": "C:\\Users\\zscholts\\.nuget\\packages\\",
-      "outputPath": "C:\\devbuild\\POSTerminal\\POS Terminal.TEST\\obj\\",
+      "outputPath": "C:\\devbuild4\\POS Terminal\\POS Terminal.TEST\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zscholts\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3546,8 +3546,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\devbuild\\POSTerminal\\POS Terminal\\POS Terminal.csproj": {
-              "projectPath": "C:\\devbuild\\POSTerminal\\POS Terminal\\POS Terminal.csproj"
+            "C:\\devbuild4\\POS Terminal\\POS Terminal\\POS Terminal.csproj": {
+              "projectPath": "C:\\devbuild4\\POS Terminal\\POS Terminal\\POS Terminal.csproj"
             }
           }
         }

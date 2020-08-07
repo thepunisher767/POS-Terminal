@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dkfFgCa7VQWdjIo054UhH6Nm5sovbQ7oDpkUuODPTFl6jg5ZB7I2qzLmpOuTG2UzEzxcfb8XTaNm5qi2pGiXIw==",
+  "dgSpecHash": "QqhNrUjQ8oTHBLNWhHur/HRwQEA5frTwUpG21O17EBhK/Aks27YuVZ7E3ylgmAor6mYIwQlkEWdsA4GYgAXITg==",
   "success": true,
-  "projectFilePath": "C:\\devbuild\\POSTerminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj",
+  "projectFilePath": "C:\\devbuild4\\POS Terminal\\POS Terminal.TEST\\POS Terminal.TEST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zscholts\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\zscholts\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\devbuild\\POSTerminal\\POS Terminal\\POS Terminal.csproj",
+      "projectUniqueName": "C:\\devbuild4\\POS Terminal\\POS Terminal\\POS Terminal.csproj",
       "projectName": "POS Terminal",
-      "projectPath": "C:\\devbuild\\POSTerminal\\POS Terminal\\POS Terminal.csproj",
+      "projectPath": "C:\\devbuild4\\POS Terminal\\POS Terminal\\POS Terminal.csproj",
       "packagesPath": "C:\\Users\\zscholts\\.nuget\\packages\\",
-      "outputPath": "C:\\devbuild\\POSTerminal\\POS Terminal\\obj\\",
+      "outputPath": "C:\\devbuild4\\POS Terminal\\POS Terminal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zscholts\\AppData\\Roaming\\NuGet\\NuGet.Config",
